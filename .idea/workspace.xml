@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61be6e89-5cf9-484d-b3ab-3fef2ab3f312" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/.sass-cache/cace1e7536fa157c285cc1e0a17334b299ca1aed/_config.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/scss/.sass-cache/cace1e7536fa157c285cc1e0a17334b299ca1aed/_config.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/.sass-cache/cace1e7536fa157c285cc1e0a17334b299ca1aed/_mobile.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/scss/.sass-cache/cace1e7536fa157c285cc1e0a17334b299ca1aed/_mobile.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/.sass-cache/cace1e7536fa157c285cc1e0a17334b299ca1aed/_nav-menu.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/scss/.sass-cache/cace1e7536fa157c285cc1e0a17334b299ca1aed/_nav-menu.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_config.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_config.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_mobile.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_mobile.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_nav-menu.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_nav-menu.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/scss/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/scss/main.css.map" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1drzNcCv2KghcQsknYpoksplJC9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="SCSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Parallax" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\portfolio\dist\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\portfolio\dist" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61be6e89-5cf9-484d-b3ab-3fef2ab3f312" name="Default Changelist" comment="" />
+      <created>1593197960993</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593197960993</updated>
+      <workItem from="1593197963379" duration="2364000" />
+      <workItem from="1593200357686" duration="20000000" />
+      <workItem from="1593257952032" duration="823000" />
+      <workItem from="1593262634574" duration="43000" />
+      <workItem from="1593263191843" duration="2543000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="90" key="#File_Watchers" timestamp="1593200142962">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="90" key="#File_Watchers/0.0.1536.864@0.0.1536.864" timestamp="1593200142962" />
+    <state x="140" y="238" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593204998927">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="140" y="238" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1593204998927" />
+    <state x="25" y="202" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1593204859116">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="25" y="202" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1536.864@0.0.1536.864" timestamp="1593204859116" />
+    <state x="405" y="210" key="EditFileWatcherDialog" timestamp="1593200204051">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="405" y="210" key="EditFileWatcherDialog/0.0.1536.864@0.0.1536.864" timestamp="1593200204051" />
+    <state x="548" y="187" key="FileChooserDialogImpl" timestamp="1593266076134">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="548" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1593266076134" />
+    <state x="277" y="74" key="SettingsEditor" timestamp="1593200205841">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="74" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1593200205841" />
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1593262654311">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1593262654311" />
+    <state x="0" y="94" key="scopes" timestamp="1593204845853">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="0" y="94" key="scopes/0.0.1536.864@0.0.1536.864" timestamp="1593204845853" />
+  </component>
+</project>
